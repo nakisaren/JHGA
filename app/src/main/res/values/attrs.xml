@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HandWriter">
+        <attr name="pathColor" format="color"/>
+        <attr name="pathWidth" format="dimension"/>
+        <attr name="Background" format="color"/>
+    </declare-styleable>
+</resources>
